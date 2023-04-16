@@ -341,9 +341,9 @@
   line-height: 26px;
   font-weight: 400;
   -moz-column-count: 2;
-  column-count: 2;
+       column-count: 2;
   -moz-column-gap: 30px;
-  column-gap: 30px;
+       column-gap: 30px;
 }
 
 .feature_image {
@@ -426,7 +426,7 @@
   height: 350px;
   max-width: none;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .image_02 {
@@ -435,7 +435,7 @@
   height: 730px;
   max-width: none;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .image-2 {
@@ -534,7 +534,7 @@
   .text_split {
     color: #292222;
     -moz-column-count: 1;
-    column-count: 1;
+         column-count: 1;
   }
 }
 
